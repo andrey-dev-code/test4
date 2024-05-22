@@ -1,6 +1,5 @@
 {
   "name": "My NFT",
-  "image": "tonstorage://F82E6C635FBF10CBB0303146163FB9BA5BE816A27B49063448BCE09C653B7237/ton.jpeg",
-  "attributes": [],
+  "image": "tonstorage://F82E6C635FBF10CBB0303146163FB9BA5BE816A27B49063448BCE09C653B7237/ton.jpeg?raw=true",
   "description": "TON Storage tutorial"
 }
